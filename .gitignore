@@ -1,0 +1,6 @@
+results/*.png
+results/*.pdf
+results/*.tsv
+.DS_Store
+.Rhistory
+*~
